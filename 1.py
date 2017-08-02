@@ -4,4 +4,6 @@ c = d
 # I went back to change 2
 # I was changed in sandbox 
 # I was changed in sandbox for second time
-# edited in Master
+
+# edited in Master and Sandbox
+
