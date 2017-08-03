@@ -6,4 +6,5 @@ c = d
 # I was changed in sandbox for second time
 
 # edited in Master and Sandbox
+# new test edited in master
 
